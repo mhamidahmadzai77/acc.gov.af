@@ -551,7 +551,7 @@ export default function Header(): JSX.Element {
       <style jsx>{`
         a,
         button {
-          color: #ffffff;
+          color: #ffffff; 
         }
 
         a:hover,
